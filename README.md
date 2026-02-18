@@ -87,5 +87,5 @@ This project demonstrates practical implementation of Machine Learning for solvi
 
 ---
 
-## 👩‍💻 Author
+## Author
 Thiroshini
